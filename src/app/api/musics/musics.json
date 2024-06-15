@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "رهایم کن",
+    "image": "https://biamusic.ir/wp-content/uploads/2023/04/Rahayam-Kon-Chavoshi-Cover-min-375x375.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": null
+  },
+  {
+    "id": 2,
+    "title": "بی بدن",
+    "image": "https://biamusic.ir/wp-content/uploads/2024/03/Mohsen-Chavoshi-Bi-Badan-375x375.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": null
+  },
+  {
+    "id": 3,
+    "title": "مادر",
+    "image": "https://biamusic.ir/wp-content/uploads/2019/08/Mohsen-Chavoshi-Madar-375x375.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": null
+  },
+  {
+    "id": 4,
+    "title": "سنگ صبور",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Santouri-375x375.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "سنتوری"
+  },
+  {
+    "id": 5,
+    "title": "قند منی",
+    "image": "https://biamusic.ir/wp-content/uploads/2023/11/Mohsen-Chavoshi-Bi-Nam-375x375.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "بی نام"
+  },
+  {
+    "id": 6,
+    "title": "در آستانه ی پیری",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Ebrahim-min.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "ابراهیم"
+  },
+  {
+    "id": 7,
+    "title": "بغض",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Ye-Shakhe-Niloofar.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "یه شاخه نیلوفر"
+  },
+  {
+    "id": 8,
+    "title": "بازار خرمشهر",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Jacket.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "ژاکت"
+  },
+  {
+    "id": 9,
+    "title": "آهای خبر نداری",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Khodkoshi-Mamnoo-min.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "خودکشی ممنوع"
+  },
+  {
+    "id": 10,
+    "title": "ای عاشقان",
+    "image": "https://biamusic.ir/wp-content/uploads/2018/12/Mohsen-Chavoshi-Man-Khode-An-13Am.jpg",
+    "artist_name": "محسن چاوشی",
+    "album_name": "من خودم ان سیزدهم"
+  }
+]
