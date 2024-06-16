@@ -1,7 +1,15 @@
-export default function Home() {
+import { Musics, SearchInput } from "@/components";
+
+export default function MusicsPage({
+  searchParams,
+}: {
+  searchParams: { [key: string]: string | string[] | undefined };
+}) {
+  const { title } = searchParams;
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      musics app
+    <main className="p-6 space-y-4">
+      <SearchInput />
+      <Musics title={title as string} />
     </main>
   );
 }

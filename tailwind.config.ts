@@ -8,10 +8,34 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        primary: "#ff8a65",
+      },
+      fontSize: {
+        "xl-bold": [
+          "20px",
+          {
+            lineHeight: "38px",
+            fontWeight: "700",
+          },
+        ],
+        "lg-bold": [
+          "18px",
+          {
+            lineHeight: "28px",
+            fontWeight: "700",
+          },
+        ],
+        "sm-bold": [
+          "14px",
+          {
+            lineHeight: "20px",
+            fontWeight: "700",
+          },
+        ],
+      },
+      fontFamily: {
+        yekan: ["IranYekan"],
       },
     },
   },
